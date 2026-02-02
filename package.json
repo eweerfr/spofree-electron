@@ -1,7 +1,7 @@
 {
   "name": "spofree-player",
   "productName": "SPOFREE Music Player",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "SPOFREE desktop music player",
   "main": "main.js",
   "author": "eweerfr",
