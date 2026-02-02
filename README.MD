@@ -10,7 +10,7 @@ Tested on Windows 11
 - Persistent settings
 
 ## Download
-Go to the [Releases](https://github.com/eweerfr/spofree-electron/releases/tag/v1.0.0) tab to download the Windows installer.
+Go to the [Releases](https://github.com/eweerfr/spofree-electron/releases) tab to download the Windows installer.
 
 ## Disclaimer
 This is an unofficial project and is not affiliated with the original SPOFREE project.
