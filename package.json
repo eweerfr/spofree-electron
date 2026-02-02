@@ -1,7 +1,7 @@
 {
   "name": "spofree-player",
   "productName": "SPOFREE Music Player",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "SPOFREE desktop music player",
   "main": "main.js",
   "author": "eweerfr",
@@ -20,7 +20,10 @@
       "**/*"
     ],
     "win": {
-      "target": ["nsis", "zip"],
+      "target": [
+        "nsis",
+        "zip"
+      ],
       "icon": "assets/app.ico",
       "verifyUpdateCodeSignature": false
     },
