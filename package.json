@@ -20,7 +20,7 @@
       "**/*"
     ],
     "win": {
-      "target": "nsis",
+      "target": ["nsis", "zip"],
       "icon": "assets/app.ico",
       "verifyUpdateCodeSignature": false
     },
