@@ -1,6 +1,7 @@
 # SPOFREE Electron Player
 
 Unofficial Electron desktop wrapper for the SpoFree web app.
+Tested on Windows 11
 
 ## Features
 - Background playback
@@ -9,7 +10,7 @@ Unofficial Electron desktop wrapper for the SpoFree web app.
 - Persistent settings
 
 ## Download
-Go to the **Releases** tab to download the Windows installer.
+Go to the [Releases](https://github.com/eweerfr/spofree-electron/releases/tag/v1.0.0) tab to download the Windows installer.
 
 ## Disclaimer
 This is an unofficial project and is not affiliated with the original SPOFREE project.
